@@ -15,5 +15,14 @@ Deployment-of-AI/
 ├── tests/
 ├── requirements.txt
 └── README.md
+Deployment-of-AI/
+├── data/
+├── src/
+│   ├── app.py
+│   ├── analysis.py
+│   └── utils.py
+├── requirements.txt
+└── README.md
+
 
 
