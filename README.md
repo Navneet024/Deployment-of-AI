@@ -9,3 +9,4 @@ A Python-based data analytics application with CI/CD pipeline.
 │   └── test_analysis.py # Unit tests for the application.
 ├── requirements.txt    # Lists Python dependencies.
 └── README.md           # Documentation about the project.
+
